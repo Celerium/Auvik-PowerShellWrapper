@@ -11,7 +11,7 @@
 ## Examples
 
 - :book: Project documentation can be found on [Github Pages](https://celerium.github.io/Auvik-PowerShellWrapper/)
-- :book: Auvik's REST API documentation on their management portal [here](https://portal.Auvikbackup.com/integrations/api) *[ Requires a login ]*.
+- :book: Auvik's REST API documentation on their management portal [here](https://auvikapi.us1.my.auvik.com/docs).
 
 :warning: Please note that the following examples are provided **"AS IS"** and only serve as a proof of concept to show possible uses of the [AuvikAPI](https://github.com/Celerium/Auvik-PowerShellWrapper) PowerShell wrapper.
 
@@ -25,10 +25,10 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ---
 
-## Agent Reports
+## Agent Reports - Coming later
 
 ![Agent Reports](https://raw.githubusercontent.com/Celerium/Auvik-PowerShellWrapper/main/.github/images/Celerium_AuvikAgentsReport.png)
 
-## Device Reports
+## Device Reports - Coming later
 
 ![Device Reports](https://raw.githubusercontent.com/Celerium/Auvik-PowerShellWrapper/main/.github/images/Celerium_AuvikDevicesReport.png)
