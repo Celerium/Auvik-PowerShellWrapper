@@ -1,10 +1,10 @@
 blank_issues_enabled: true
 contact_links:
   - name: Project Documentation
-    url: https://celerium.github.io/AuvikAPI/
+    url: https://celerium.github.io/Auvik-PowerShellWrapper/
     about: Read through the generated documentation
   - name: Vendor Documentation
-    url: https://github.com/Celerium
+    url: https://auvikapi.us1.my.auvik.com/docs
     about: Read through the vendors documentation
   - name: Celerium.org
     url: https://celerium.org
