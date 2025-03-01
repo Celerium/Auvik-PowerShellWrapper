@@ -1,4 +1,4 @@
- <center> ⚠️ **Attention:** This module has been migrated to the [Celerium.Auvik](https://github.com/Celerium/Celerium.Auvik) module as of 2025-03-01. </center>
+**Attention: This module has been migrated to the [Celerium.Auvik](https://github.com/Celerium/Celerium.Auvik) module as of 2025-03-01.**
 
 
 
