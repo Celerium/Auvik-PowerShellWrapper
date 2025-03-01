@@ -1,3 +1,7 @@
+ <center> ⚠️ **Attention:** This module has been migrated to the [Celerium.Auvik](https://github.com/Celerium/Celerium.Auvik) module as of 2025-03-01. </center>
+
+
+
 <h1 align="center">
   <br>
   <a href="http://Celerium.org"><img src="https://raw.githubusercontent.com/Celerium/Auvik-PowerShellWrapper/main/.github/images/Celerium_PoSHGallery_AuvikAPI.png" alt="_CeleriumDemo" width="200"></a>
